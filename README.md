@@ -14,11 +14,11 @@
 
 4. Xong (Lưu ý: Không xoá thư mục trong máy vì sẽ làm mất extension)
 
-<img width="228" alt="Ảnh màn hình 2024-06-22 lúc 12 23 53" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/f3e1ec30-f67d-4ce7-9e70-99e023c380f0">
+   <img width="228" alt="Ảnh màn hình 2024-06-22 lúc 12 23 53" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/f3e1ec30-f67d-4ce7-9e70-99e023c380f0">
 
 5. Có thể ghim vào thanh công cụ cho tiện dùng
 
-<img width="319" alt="Ảnh màn hình 2024-06-23 lúc 13 14 07" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/03693518-7b2e-421e-900c-7353eeed03aa">
+   <img width="319" alt="Ảnh màn hình 2024-06-23 lúc 13 14 07" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/03693518-7b2e-421e-900c-7353eeed03aa">
 
 **Hỗ trợ**
 
