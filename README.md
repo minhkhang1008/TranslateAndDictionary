@@ -17,4 +17,5 @@
 <img width="228" alt="Ảnh màn hình 2024-06-22 lúc 12 23 53" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/f3e1ec30-f67d-4ce7-9e70-99e023c380f0">
 
 **Hỗ trợ**
+
 Ai làm được phần CSS và làm extension đẹp hơn thì làm rồi gửi tới email _minhkhang.0884@gmail.com_ cho mình xem với nhé
