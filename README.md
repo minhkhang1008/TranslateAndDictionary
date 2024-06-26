@@ -12,11 +12,16 @@
 
    <img width="484" alt="Ảnh màn hình 2024-06-22 lúc 12 23 21" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/c7706802-fce8-422b-b1f2-d9136986c488">
 
-4. Xong (Lưu ý: Không xoá thư mục trong máy vì sẽ làm mất extension) (Chỉ cần download update mới và thả vào folder cũ để thay thế file cũ là Chrome sẽ tự cập nhật)
+4. Xong (Lưu ý: Không xoá thư mục trong máy vì sẽ làm mất extension) 
 
    <img width="228" alt="Ảnh màn hình 2024-06-22 lúc 12 23 53" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/f3e1ec30-f67d-4ce7-9e70-99e023c380f0">
 
-5. Có thể ghim vào thanh công cụ cho tiện dùng
+5. Khi update, chỉ cần giải nén file zip và thay thế thư mục hiện có là Chrome sẽ tự cập nhật
+  
+   ![Update](https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/12c6690c-7d9b-46ef-82b3-13a10212fe8a)
+
+
+8. Có thể ghim vào thanh công cụ cho tiện dùng
 
    <img width="319" alt="Ảnh màn hình 2024-06-23 lúc 13 14 07" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/03693518-7b2e-421e-900c-7353eeed03aa">
 
