@@ -18,10 +18,10 @@
 
 5. Khi update, chỉ cần giải nén file zip và thay thế thư mục hiện có là Chrome sẽ tự cập nhật
   
-   ![Update](https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/12c6690c-7d9b-46ef-82b3-13a10212fe8a)
+   
+   https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/5e6cadf9-8546-4b9d-a3b0-11dda2cf038f
 
-
-8. Có thể ghim vào thanh công cụ cho tiện dùng
+6. Có thể ghim vào thanh công cụ cho tiện dùng
 
    <img width="319" alt="Ảnh màn hình 2024-06-23 lúc 13 14 07" src="https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/03693518-7b2e-421e-900c-7353eeed03aa">
 
