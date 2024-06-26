@@ -18,8 +18,7 @@
 
 5. Khi update, chỉ cần giải nén file zip và thay thế thư mục hiện có là Chrome sẽ tự cập nhật
   
-   
-   https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/5e6cadf9-8546-4b9d-a3b0-11dda2cf038f
+   https://github.com/minhkhang1008/TranslateAndDictionary/assets/95206562/3f14f851-322d-4651-b7c4-cb4217d03c08
 
 6. Có thể ghim vào thanh công cụ cho tiện dùng
 
